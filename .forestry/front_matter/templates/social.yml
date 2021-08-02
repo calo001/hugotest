@@ -14,3 +14,9 @@ fields:
   config:
     required: false
   label: Social
+- name: picker
+  type: color
+  label: Picker
+  config:
+    required: false
+    color_format: Hex
