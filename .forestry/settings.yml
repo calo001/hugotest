@@ -12,11 +12,6 @@ sections:
   templates:
   - post
 - type: directory
-  path: content/about
-  label: About
-  create: none
-  match: "*"
-- type: directory
   path: content/contact
   label: Contact
   create: none
@@ -24,6 +19,11 @@ sections:
 - type: document
   path: config.yaml
   label: Configuration
+- type: directory
+  path: content/about
+  label: About
+  create: none
+  match: "*"
 upload_dir: static/images
 public_path: "/images"
 front_matter_path: ''
