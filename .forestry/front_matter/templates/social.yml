@@ -1,4 +1,16 @@
 ---
 label: Social
 hide_body: false
-fields: []
+fields:
+- name: block1
+  type: blocks
+  label: Block1
+  template_types: []
+  config:
+    min: 
+    max: 
+- name: social
+  type: text
+  config:
+    required: false
+  label: Social
