@@ -41,7 +41,7 @@ params:
       - link: plugins/search/fuse.min.js
       - link: plugins/search/mark.js
       - link: plugins/search/search.js
-  logo: images/logo.png
+  logo: images/light.png
   home: Home
   layout: '1'
   description: This is meta description
@@ -50,16 +50,15 @@ params:
   author: Themefisher
   author_image: images/banner-img.png
   bio: >-
-    I’m a Freelance Interactive Art Director based in France. Focusing across
-    branding and identity, digital and print.
-  mobile: +90 000 333 22
-  email: exmaple@ymail.com
-  address: 6 rip carl Avenue CA 90733
+    Tiendita de prueba
+  mobile: 55 67676767
+  email: tiendita@ymail.com
+  address: Calle los pollos
   contact_form_action: '#'
   google_analitycs_id: Your ID
-  copyright: 'Copyright &copy; 2020 a theme by [themefisher.com](themefisher.com)'
+  copyright: 'Copyright V&C'
   instafeed:
-    enable: true
+    enable: false
     access_token: >-
       IGQVJYeUk4YWNIY1h4OWZANeS1wRHZARdjJ5QmdueXN2RFR6NF9iYUtfcGp1NmpxZA3RTbnU1MXpDNVBHTzZAMOFlxcGlkVHBKdjhqSnUybERhNWdQSE5hVmtXT013MEhOQVJJRGJBRURn
   social:
